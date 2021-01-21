@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julian Bolaños</h1>
+<h1 align="center">Hello world! 🌎, I'm Julian Bolaños</h1>
 <h3 align="center">A Software Engineer Student at Icesi University ;)</h3>
 
 - 🌱 I’m currently learning **AI and Android Development**
