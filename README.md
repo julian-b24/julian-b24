@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **AI and Android Development**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at [my github profile](https://github.com/julian-b24?tab=repositories)
 
 - 💬 Ask me about **... whatever u want haha**
 
 - 📫 How to reach me **julian.camilob24@gmail.com**
 
-- 📄 Know about my experiences [I won a scholarship cause of having one of the greatest semester average grade of the Engineer Faculty among 1st to 5th semester students](I won a scholarship cause of having one of the greatest semester average grade of the Engineer Faculty among 1st to 5th semester students)
+- 📄 Know about my experiences: I won a scholarship cause of having **one of the greatest semester average grade of the Engineer Faculty among 1st to 5th semester students**
 
 - ⚡ Fun fact **I like kitties and puppies 🐾**
 
