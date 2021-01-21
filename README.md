@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! 🌎, I'm Julian Bolaños</h1>
 <h3 align="center">A Software Engineer Student at Icesi University ;)</h3>
 
-- 🌱 I’m currently learning **AI and Android Development**
+- 🌱 I’m currently learning **Data Science and Android Development**
 
 - 👨‍💻 All of my projects are available at **[my github profile](https://github.com/julian-b24?tab=repositories)**
 
