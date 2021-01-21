@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI and Android Development**
 
-- 👨‍💻 All of my projects are available at [my github profile](https://github.com/julian-b24?tab=repositories)
+- 👨‍💻 All of my projects are available at **[my github profile](https://github.com/julian-b24?tab=repositories)**
 
 - 💬 Ask me about **... whatever u want haha**
 
