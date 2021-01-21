@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Data Science and Android Development**
 
+- 👯 I’m looking to collaborate on **projects where i could apply and keep getting much knowledge, always having fun!**
+
 - 👨‍💻 All of my projects are available at **[my github profile](https://github.com/julian-b24?tab=repositories)**
 
 - 💬 Ask me about **... whatever u want haha**
